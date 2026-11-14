@@ -1,0 +1,5 @@
+{
+  "appName": "VibeOffice",
+  "menu": {"file":"Tệp","edit":"Sửa","view":"Xem","insert":"Chèn","format":"Định dạng","tools":"Công cụ","data":"Dữ liệu","help":"Trợ giúp"},
+  "ai": {"analyze":"Phân tích với AI","formula":"Tạo công thức","settings":"Cài đặt AI","privacy":"Chỉ dùng Local AI"}
+}
